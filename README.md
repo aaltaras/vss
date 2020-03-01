@@ -1,0 +1,2 @@
+# vss
+SQS Queue
